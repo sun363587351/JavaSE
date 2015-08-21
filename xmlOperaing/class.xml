@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<web-apps>
+    <servlet>
+        <servlet-class>xmlOperaing.dom4JTest.MyCT</servlet-class>
+    </servlet>
+</web-apps>
